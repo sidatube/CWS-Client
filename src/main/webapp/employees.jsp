@@ -34,8 +34,8 @@
         <thead>
         <tr>
             <th scope="col">#</th>
-            <th scope="col">Product name</th>
-            <th scope="col">Price</th>
+            <th scope="col">Employee's name</th>
+            <th scope="col">Salary</th>
             <th scope="col">Action</th>
         </tr>
         </thead>
